@@ -44,4 +44,7 @@
   <ItemGroup>
     <Folder Include="Model\" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="results.csv" />
+  </ItemGroup>
 </Project>

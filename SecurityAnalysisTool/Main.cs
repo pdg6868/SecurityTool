@@ -7,7 +7,7 @@ namespace SecurityAnalysisTool
 	{
 		public static void Main (string[] args)
 		{
-			Console.WriteLine ("Hello World!");
+			Console.WriteLine ("Security Analysis Tool");
 			Parser p = new Parser();
 			List<Result> results = p.Parse();
 
